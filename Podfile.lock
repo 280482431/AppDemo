@@ -1,0 +1,32 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJRefresh (3.6.1)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry
+  - MJRefresh
+  - SDWebImage
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: d2c1970d1cf6e77fcfcdfe76c943dfab8dbfa5c1
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 3ac205c3989948e30d85274613ddc999f04a5716
+
+COCOAPODS: 1.10.1
